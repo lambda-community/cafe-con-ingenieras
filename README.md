@@ -12,4 +12,6 @@ Mayo 7, 2020 - https://introdatascience.splashthat.com
 ## Artículos
 
 * https://ideas.ted.com/the-1-block-to-teamwork-is-defensiveness-heres-how-to-defuse-it/?utm_source=linkedin.com&utm_medium=referral&utm_campaign=social&utm_term=business
+* https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a
+
 
