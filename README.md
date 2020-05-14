@@ -9,6 +9,7 @@
 * She engineers - Stephanie Slocum
 * Lean In: Women, Work, and the Will to Lead - Nell Scovell and Sheryl Sandberg
 * Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreyrou
+* Fuera de serie: Malcolm Gladwell
 
 ## Artículos
 
