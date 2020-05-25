@@ -2,8 +2,8 @@
 
 ## Eventos técnicos
 
-[Mayo 7, 2020](/events/2020-05-07.md)
-[Mayo 21, 2020](/events/2020-05-21.md)
+* [Mayo 7, 2020](/events/2020-05-07.md)
+* [Mayo 21, 2020](/events/2020-05-21.md)
 
 ## Libros
 
