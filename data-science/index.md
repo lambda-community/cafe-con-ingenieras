@@ -1,5 +1,6 @@
 # Introducción a Data Science
-Mayo 7, 2020
+
+* Fecha: Mayo 7, 2020
 
 ### Data Science en Nubank
 * Ponente: Jessica De Sousa
