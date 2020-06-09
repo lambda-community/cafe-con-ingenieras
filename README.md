@@ -5,6 +5,7 @@
 ## Eventos técnicos
 
 * [Introducción a Data Science](/data-science/index.md)
+* [Código limpio](/codigo-limpio/index.md)
 
 ## Reuniones soft skills
 
