@@ -9,7 +9,8 @@
 
 ## Reuniones soft skills
 
-* [Brecha salarial](/brecha-salarial/index.md)
+* [Mujeres en la ingeniería](/mujeres-en-la-ingenieria/index.md)
 * [Empoderamiento femenino](/empoderamiento-femenino/index.md)
 * [Liderazgo](/liderazgo/index.md)
-* [Mujeres en la ingeniería](/mujeres-en-la-ingenieria/index.md)
+* [Brecha salarial](/brecha-salarial/index.md)
+* [Comunicación y lenguaje corporal](/comunicacion-y-lenguaje-corporal.md)
