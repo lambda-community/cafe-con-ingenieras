@@ -3,7 +3,7 @@
 * Fecha: Junio 4, 2020
 * Ponente: Leticia Cruz
 * Twitter: [@Lety_CruzB](https://twitter.com/Lety_CruzB)
-* Diapositivas: [Codigo limpio]()
+* Diapositivas: [Código limpio](./codigo-limpio.pdf)
 
 ## Material extra
 
