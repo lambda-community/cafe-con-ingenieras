@@ -15,3 +15,4 @@
 * [Brecha salarial](/brecha-salarial/index.md)
 * [Comunicación y lenguaje corporal](/comunicacion-y-lenguaje-corporal/index.md)
 * [Desarrollo orientado a pruebas](/desarrollo-orientado-a-pruebas/index.md)
+* [Burnout](/burnout/index.md)
