@@ -1,5 +1,8 @@
 # Mujeres en la ingeniería
 
+* Fecha: Abril 9, 2020
+* Ponentes: Todas
+
 ## Material extra
 
 * [She engineers - Stephanie Slocum][she-engineers]
