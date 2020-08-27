@@ -6,6 +6,7 @@
 
 * [Introducción a Data Science](/data-science/index.md)
 * [Código limpio](/codigo-limpio/index.md)
+* [Testing on frontend](/testing-on-frontend/index.md)
 
 ## Reuniones soft skills
 
@@ -16,3 +17,5 @@
 * [Comunicación y lenguaje corporal](/comunicacion-y-lenguaje-corporal/index.md)
 * [Desarrollo orientado a pruebas](/desarrollo-orientado-a-pruebas/index.md)
 * [Burnout](/burnout/index.md)
+* [I am remarkable](/i-am-remarkable/index.md)
+* [Storytelling for engineers](/storytelling-for-engineers.index.md)
