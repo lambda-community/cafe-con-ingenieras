@@ -2,6 +2,7 @@
 
 * Fecha: Agosto 20, 2020
 * Ponente: Alexandra Serrano
+* Diapositivas: [Storytelling para ingenieras](./Storytelling-para-ingenieras.pdf)
 
 ## Material extra
 
