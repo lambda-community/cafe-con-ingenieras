@@ -19,3 +19,4 @@
 * [Burnout](/burnout/index.md)
 * [I am remarkable](/i-am-remarkable/index.md)
 * [Storytelling for engineers](/storytelling-for-engineers/index.md)
+* [Trabajo remoto en el extranjero](/trabajo-remoto-en-el-extranjero.md)
